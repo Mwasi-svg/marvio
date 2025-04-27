@@ -1,0 +1,8 @@
+{
+  "name": "marvio-project",
+  "version": "1.0.0",
+  "description": "Marvio website project",
+  "scripts": {
+    "start": "npx http-server ."
+  }
+}
