@@ -1,0 +1,14 @@
+{
+  "name": "marvio",
+  "version": "1.0.0",
+  "description": "Marvio - Portfolio Template",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -o --cors",
+    "dev": "npx http-server -o --cors"
+  },
+  "dependencies": {
+    "framer-motion": "^12.10.1",
+    "http-server": "^14.1.1"
+  }
+}

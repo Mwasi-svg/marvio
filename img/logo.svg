@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="180" height="80" viewBox="0 0 180 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mwasi-logo {
+      font-family: 'Pacifico', cursive;
+      font-size: 56px;
+      fill: #fff;
+    }
+  </style>
+  <rect width="180" height="80" fill="none"/>
+  <text x="10" y="60" class="mwasi-logo">Mwasi</text>
+</svg>
